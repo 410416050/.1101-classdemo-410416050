@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.line3 img {
+  width: 30%;
+  margin: 1.5%;
+}
+.line4 img {
+  width: 22%;
+  margin: 1.3%;
+}
+.line5 img {
+  width: 97%;
+  margin: 1.2%;
+}
+.line6 img {
+  width: 17%;
+  margin: 1.3%;
+}
+.card {
+  background-color: white;
+  padding: 5px;
+  margin-top: 1px;
+}
+.left,
+.center,
+.right {
+  border: 1px solid black;
+  height: 400px;
+  width: 280px;
+  float: right;
+  margin: 10px;
+  padding: 50px;
+  background: pink;
+  font-size: 32px;
+}
